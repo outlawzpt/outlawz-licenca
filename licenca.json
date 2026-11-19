@@ -1,0 +1,11 @@
+{
+  "ativa": true,
+  "mensagem": "",
+  "trimestres": {
+    "2027-T1": {
+      "sal": "2f37e6f2700572ebc76f3e4fade57676",
+      "iteracoes": 600000,
+      "hash": "ac24d7a3b0da71ab80dc53a3fd4f16b545b240e820c95fcf8687cd0b99a4c3aa"
+    }
+  }
+}
